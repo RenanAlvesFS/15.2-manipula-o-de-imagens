@@ -1,0 +1,93 @@
+body {
+  background: #efefef;
+}
+header {
+  background: #000000;
+  background: linear-gradient(
+    90deg,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(58, 58, 58, 1) 50%,
+    rgba(255, 255, 255, 1) 100%
+  );
+  color: #ffffff;
+  text-align: center;
+  padding: 20px;
+  font-family: "Cinzel", serif;
+}
+header img {
+  width: 300px;
+  height: auto;
+}
+.linha {
+  display: flex;
+  gap: 10px;
+}
+.linha img {
+  height: 200px;
+  object-fit: cover;
+}
+.linha1 {
+  display: flex;
+  gap: 10px;
+}
+.linha1 img {
+  height: 200px;
+  object-fit: cover;
+}
+.linha2 {
+  display: flex;
+  gap: 10px;
+}
+.linha2 img {
+  height: 200px;
+  object-fit: cover;
+}
+.linha3 {
+  display: flex;
+  gap: 10px;
+}
+.linha3 img {
+  height: 200px;
+  object-fit: cover;
+}
+.linha4 {
+  display: flex;
+  gap: 10px;
+}
+.linha4 img {
+  height: 200px;
+  object-fit: cover;
+}
+.linhadotempo {
+  display: flex;
+  gap: 10px;
+}
+.textlinha {
+  text-align: center;
+  font-family: "Cinzel", serif;
+  font-size: 30px;
+}
+main h2 {
+  text-align: center;
+  font-family: "Cinzel", serif;
+  font-size: 50px;
+}
+main p {
+  margin-left: 10px;
+}
+.Idolo h1 {
+  text-align: center;
+  font-family: "Cinzel", serif;
+  font-size: 50px;
+}
+.Idolos h1 {
+  text-align: center;
+  font-family: "Cinzel", serif;
+  font-size: 50px;
+}
+.Idolo img {
+  display: block;
+  margin: 0 auto;
+  width: 600px;
+  height: auto;
+}
