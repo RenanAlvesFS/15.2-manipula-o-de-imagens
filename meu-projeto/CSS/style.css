@@ -14,6 +14,7 @@ header {
   text-align: center;
   padding: 20px;
   font-family: "Cinzel", serif;
+  border-radius: 30px;
 }
 header img {
   width: 300px;
