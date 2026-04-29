@@ -1,5 +1,6 @@
 body {
-  background: #efefef;
+  background: url("./img/fundo-monocromatico.avif");
+  background-repeat: repeat;
 }
 header {
   background: #000000;
@@ -88,6 +89,44 @@ main p {
 .Idolo img {
   display: block;
   margin: 0 auto;
-  width: 600px;
+  width: 700px;
   height: auto;
+}
+.Mundial video {
+  display: block;
+  margin: 0 auto;
+  width: 1000px;
+  height: auto;
+  border-radius: 30px;
+}
+.Uniformes iframe {
+  display: block;
+  margin: 0 auto;
+  width: 1000px;
+  border-radius: 30px;
+}
+.Formulario {
+  background: #1c1c1c;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.Formulario1 form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.Formulario h2 {
+  color: #ffffff;
+  text-align: center;
+}
+.Formulario img {
+  width: 400px;
+  height: auto;
+}
+.Idolos p {
+  text-align: center;
+  max-width: 1000px;
+  margin: auto;
+  line-height: 1.6;
 }
